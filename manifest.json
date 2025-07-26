@@ -1,0 +1,21 @@
+{
+  "name": "Marceline Beaty Poit - Credit Tracker",
+  "short_name": "MBP Tracker",
+  "icons": [
+    {
+      "src": "./1.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "./1.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "theme_color": "#ffccd1",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./"
+}
