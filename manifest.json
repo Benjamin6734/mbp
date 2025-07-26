@@ -3,12 +3,12 @@
   "short_name": "MBP Tracker",
   "icons": [
     {
-      "src": "./2.jpg",
+      "src": "./1.jpg",
       "sizes": "512x512",
       "type": "image/jpeg"
     },
     {
-      "src": "./2.jpg",
+      "src": "./1.jpg",
       "sizes": "512x512",
       "type": "image/jpeg"
     }
